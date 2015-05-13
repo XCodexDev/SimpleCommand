@@ -1,0 +1,4 @@
+- PocketMine-MP SimpleCommand Plugin.
+- Plugin made by TheCodexDev (XCodexDev)
+- Free to use by anyone, and use to learn.
+- Thank you! TheCodexDev (XCodexDev)
